@@ -57,12 +57,12 @@ li{
 	background: white;
 	text-transform: uppercase;
 	text-decoration: none;
-	font-size: 12px;
+	font-size: 0.75em;
 	font-weight: bold;
-	padding:6px 6px 6px 6px;
-	border-radius: 5px 5px 5px 5px;
+	padding:0.33em 0.33em 0.33em 0.33em;
+	border-radius: 0.3em 0.3em 0.3em 0.3em;
 	border: 1px solid silver;
-	margin-right: 10px;
+	margin-right: 0.65em;
 
 }
 
@@ -78,3 +78,26 @@ li{
     width: 100%; 
 }
 
+#link	ul{
+	list-style-type: none;
+	display: inline;
+	margin-left: 0px
+	padding-left:0px;
+}
+
+#link	li{
+	display:inline;
+	margin-left: 0px;
+}
+
+#link	a{
+	color: black;
+	background: white;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 0.75em;
+	font-weight: bold;
+	padding:0.33em 0.33em 0.33em 0.33em;
+	border-radius: 0.3em 0.3em 0.3em 0.3em;
+	border: 1px solid silver;
+	margin-right: 0.65em;
